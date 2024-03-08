@@ -455,6 +455,9 @@ alias of:N*T*Cqcom,kalama-gcc gcc_kalama
 alias of:N*T*Cqcom,kalama-gccC* gcc_kalama
 alias of:N*T*Cqcom,kalama-gcc-v2 gcc_kalama
 alias of:N*T*Cqcom,kalama-gcc-v2C* gcc_kalama
+alias i2c:grip_sensor a96t396
+alias i2c:grip_sensor_sub a96t396
+alias i2c:grip_sensor_sub2 a96t396
 alias i2c:grip_sensor_wifi a96t396
 alias of:N*T*Csamsung,sec-direct-charger sec_direct_charger
 alias of:N*T*Csamsung,sec-direct-chargerC* sec_direct_charger

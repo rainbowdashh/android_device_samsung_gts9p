@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_gts9wifi.mk
+    $(LOCAL_DIR)/twrp_gts9p.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_gts9wifi-user \
-    twrp_gts9wifi-userdebug \
-    twrp_gts9wifi-eng
+    twrp_gts9p-user \
+    twrp_gts9p-userdebug \
+    twrp_gts9p-eng
